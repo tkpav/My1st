@@ -1,3 +1,4 @@
-#print("0    0")
+#!/usr/bin/python
+print("Q    Q")
 print("  oo")
 print(" \__/")
